@@ -12,10 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
@@ -40,7 +36,7 @@
 Came across this challenge from twitter, decided to solve it as a basics practice task.
 
 - Where can I see your demo?
-  <br> &nbsp; &nbsp; &nbsp; You can click [here](https://404-not-found-adityasaxena.netlify.app/) to check out live demo
+  <br> &nbsp; &nbsp; &nbsp; You can click [here](https://404-not-found-adityasaxena.netlify.app/) to check out live demo.
 - What have you learned/improved?
   <br> &nbsp; &nbsp; &nbsp; Used a combination of flexbox, absolute positioning and media queries to make it repsonsive.
 
@@ -61,5 +57,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [aditya-saxena.netlify.app](https://aditya-saxena.netlify.app)
-- GitHub [@asaxena012](https://github.com/asaxena012})
+- GitHub [@asaxena012](https://github.com/asaxena012)
 - Twitter [@keenAadi](https://twitter.com/keenAadi)
