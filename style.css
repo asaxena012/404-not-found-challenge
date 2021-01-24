@@ -92,11 +92,10 @@ a {
 
 .footer-text {
   position: relative;
-  top: 20%;
-  left: 5.5%;
+  top: 23%;
   font-family: "Montserrat", sans-serif;
   font-size: 0.875rem;
   font-weight: 600;
-  margin: auto;
+  text-align: center;
   padding-bottom: 1rem;
 }
